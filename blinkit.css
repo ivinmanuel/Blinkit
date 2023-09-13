@@ -125,9 +125,7 @@ main {
     transform: scale(1.2); 
     
 }
-header:hover + .section-3-img {
-    pointer-events: none;
-  }
+
 .section-3 {
     margin-top: 16px;
     display: flex;
